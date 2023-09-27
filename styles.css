@@ -1,0 +1,65 @@
+.body{
+    background-color: bisque;
+}
+h1{
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.91);
+    text-align: center;
+    padding: 10px;
+    width: 60%;
+    margin: auto;
+    margin-bottom: 47px;
+    font-family: 'Times New Roman', Times, serif;
+ 
+
+}
+
+.input{
+    width: 372px;
+    margin: 0 auto;
+    text-align: center; 
+    font-family: 'Times New Roman', Times, serif;
+  
+
+}
+
+label{
+    display: block;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+   
+
+}
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border-color: rgb(161 6 6);
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+
+    
+}
+
+input[type="submit"] {
+    background-color: #000203;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+input[type="submit"]:hover {
+    background-color: #0158b5;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
